@@ -1,3 +1,16 @@
+This is a project submission for static website deployment using aws s3 by kirubel fikru weldesemayat.
+
+Website url:-
+
+CloudFront domain name \
+https://d4bh1ijdgnv8y.cloudfront.net 
+
+website-endpoint \
+http://my-417962461866-bucket.s3-website-us-east-1.amazonaws.com
+
+S3 object URL\
+https://my-417962461866-bucket.s3.amazonaws.com/index.html
+
 The cloud is perfect for hosting static websites that only include HTML, CSS, and JavaScript files that require no server-side processing. This project  has two major intentions to implement:
 
 * Hosting a static website on S3 and
