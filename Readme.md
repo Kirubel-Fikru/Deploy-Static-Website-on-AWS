@@ -135,3 +135,4 @@ All three links: CloudFront domain name, S3 object URL, and website-endpoint wil
 If we were not "hosting" the website on S3, we could have made the bucket private and host the content only through the CloudFront domain name. In such a case, we cannot access the private content using S3 object URL and website-endpoint.
 ```
 
+![Website](Screenshots/s3-6.PNG)
